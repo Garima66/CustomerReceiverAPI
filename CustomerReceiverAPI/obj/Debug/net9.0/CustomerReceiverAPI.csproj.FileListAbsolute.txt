@@ -31,3 +31,6 @@ C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\refin
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\CustomerReceiverAPI.pdb
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\CustomerReceiverAPI.genruntimeconfig.cache
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\ref\CustomerReceiverAPI.dll
+C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\CustomerReceiverAPI.sourcelink.json
