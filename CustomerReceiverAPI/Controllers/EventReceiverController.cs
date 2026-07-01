@@ -6,6 +6,7 @@ namespace CustomerReceiverAPI.Controllers
     [Route("api/[controller]")]
     public class EventReceiverController : ControllerBase
     {
+        [HttpPost]
         public IActionResult Receive([FromBody] object data)
         {
            Console.WriteLine(data.ToString());
