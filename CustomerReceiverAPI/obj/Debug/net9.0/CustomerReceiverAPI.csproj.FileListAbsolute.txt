@@ -8,6 +8,9 @@ C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\bin\Debug\net9.0\Custo
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\bin\Debug\net9.0\CustomerReceiverAPI.pdb
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\CustomerReceiverAPI.csproj.AssemblyReference.cache
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\rpswa.dswa.cache.json
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\CustomerReceiverAPI.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,6 +19,7 @@ C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\Custo
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\CustomerReceiverAPI.csproj.CoreCompileInputs.cache
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\CustomerReceiverAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\CustomerReceiverAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\CustomerReceiverAPI.sourcelink.json
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -24,13 +28,9 @@ C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\stati
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\staticwebassets.development.json
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\Customer.0F0EC6C8.Up2Date
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\CustomerReceiverAPI.dll
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\refint\CustomerReceiverAPI.dll
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\CustomerReceiverAPI.pdb
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\CustomerReceiverAPI.genruntimeconfig.cache
 C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\ref\CustomerReceiverAPI.dll
-C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\AzureGridEvent\CustomerReceiverAPI\CustomerReceiverAPI\obj\Debug\net9.0\CustomerReceiverAPI.sourcelink.json
